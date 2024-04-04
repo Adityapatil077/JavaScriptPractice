@@ -1,0 +1,2 @@
+# JavaScriptPractice
+my javascript journy
